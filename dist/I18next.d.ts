@@ -5,6 +5,6 @@ export default class I18next {
     fallback: string;
     constructor(message?: {}, options?: {});
     getTranslation(key: string): any;
-    getPlural(translation: string, count: number): any;
+    getPlural(translation: object, count: number): any;
     replacePlaceholders(translation: string, replacements: Array<string>): string;
 }

@@ -68,7 +68,7 @@ export default class I18next {
     }
   }
 
-  getPlural(translation: string, count: number) {
+  getPlural(translation: object, count: number) {
     let i;
     let _translation;
     let upper = 0;

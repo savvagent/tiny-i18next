@@ -1,6 +1,7 @@
 # i18n
 
 This is a tiny and simple class for i18n translations. It supports placeholders and various plurals.
+It requires a modern browser or node 16.x or greater
 
 ## Installation
 
