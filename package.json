@@ -1,6 +1,6 @@
 {
   "name": "tiny-i18next",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight translation module for modern Javascript",
   "module": "dist/I18next.js",
   "types": "dist/I18next.d.ts",
@@ -13,7 +13,7 @@
   },
   "author": "rob@hixfamily.org",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=16.0.0"
   },
   "license": "MIT",
   "devDependencies": {
