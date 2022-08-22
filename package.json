@@ -1,8 +1,9 @@
 {
   "name": "tiny-i18next",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight translation module for modern Javascript",
   "module": "dist/I18next.js",
+  "main": "dist/I18next.js",
   "types": "dist/I18next.d.ts",
   "scripts": {
     "build": "rimraf dist && node ./esbuild.config.js",
