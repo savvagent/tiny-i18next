@@ -1,7 +1,0 @@
-node_modules
-npm-debug.log
-coverage
-reports
-tags
-.tags*
-.idea

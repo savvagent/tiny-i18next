@@ -1,4 +1,4 @@
-# i18n
+# @savvagent/tiny-i18next
 
 This is a tiny and simple class for i18n translations. It supports placeholders and various plurals.
 It requires a modern browser or node 16.x or greater
@@ -8,13 +8,13 @@ It requires a modern browser or node 16.x or greater
 Use npm, pnpm or yarn to install it.
 
 ```shell
-pnpm add tiny-i18next
+pnpm add @savvagent/tiny-i18next
 ```
 
 ## Use
 
 ```JavaScript
-import I18next from 'tiny-i18next';
+import I18next from '@savvagent/tiny-i18next';
 const enTranslations = {
   "cancel": "Cancel",
   "checkout": "Checkout",
