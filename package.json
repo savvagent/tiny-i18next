@@ -1,6 +1,6 @@
 {
   "name": "@savvagent/tiny-i18next",
-  "version": "1.0.6",
+  "version": "2.1.0",
   "description": "A lightweight translation module for modern Javascript",
   "module": "dist/I18next.js",
   "main": "dist/I18next.js",
@@ -41,5 +41,19 @@
   "dependencies": {
     "npm-run-all": "^4.1.5"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savvagent/tiny-i18next.git"
+  },
+  "keywords": [
+    "i18n",
+    "translations",
+    "placeholders",
+    "plurals"
+  ],
+  "bugs": {
+    "url": "https://github.com/savvagent/tiny-i18next/issues"
+  },
+  "homepage": "https://github.com/savvagent/tiny-i18next#readme"
 }
